@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Kenji Williams-McCall
 
-# Your Github username
+# KMFKenji
